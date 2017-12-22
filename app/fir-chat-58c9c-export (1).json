@@ -1,0 +1,169 @@
+{
+  "chat_rooms" : {
+    "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2_PhomcBYtvHQMZ2VfUJSt1WgsTD92" : {
+      "1513594819486" : {
+        "message" : "Hi ",
+        "receiver" : "ishitajain966@gmail.com",
+        "receiverUid" : "PhomcBYtvHQMZ2VfUJSt1WgsTD92",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513594819486
+      }
+    },
+    "jR55GBlJbtVEbQM5O4apxfsvksV2_KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2" : {
+      "1513594950837" : {
+        "message" : "Hi! How are you?",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513594950837
+      },
+      "1513595160748" : {
+        "message" : "Great! ",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513595160748
+      },
+      "1513595166385" : {
+        "message" : "you say!",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513595166385
+      },
+      "1513654970292" : {
+        "message" : "H",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654970292
+      },
+      "1513654975597" : {
+        "message" : "E",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654975597
+      },
+      "1513654978067" : {
+        "message" : "L",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654978067
+      },
+      "1513654980642" : {
+        "message" : "L",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654980642
+      },
+      "1513654982922" : {
+        "message" : "O",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654982922
+      },
+      "1513654989563" : {
+        "message" : "H",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654989563
+      },
+      "1513654991706" : {
+        "message" : "E",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654991706
+      },
+      "1513654993890" : {
+        "message" : "L",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654993890
+      },
+      "1513654996057" : {
+        "message" : "L",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654996057
+      },
+      "1513654997993" : {
+        "message" : "O",
+        "receiver" : "meharmailbox@gmail.com",
+        "receiverUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "sender" : "soniabhatia1102@gmail.com",
+        "senderUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "timestamp" : 1513654997993
+      },
+      "1513683551167" : {
+        "message" : "Hi",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513683551167
+      },
+      "1513683609109" : {
+        "message" : "buhot bhook lag Rahi hai",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513683609109
+      },
+      "1513683621498" : {
+        "message" : "😂😀",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513683621498
+      },
+      "1513683632091" : {
+        "message" : "😱😲",
+        "receiver" : "soniabhatia1102@gmail.com",
+        "receiverUid" : "jR55GBlJbtVEbQM5O4apxfsvksV2",
+        "sender" : "meharmailbox@gmail.com",
+        "senderUid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2",
+        "timestamp" : 1513683632091
+      }
+    }
+  },
+  "users" : {
+    "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2" : {
+      "email" : "meharmailbox@gmail.com",
+      "firebaseToken" : "et-nsRO7ebo:APA91bGnbZaQfp9HAxZ7CQ-cuq_9mS26xcibQBlbRZT_JqQSriS02crT5pAIur6eFWH_QfATHDDlE0yw0U2OkZtf_ksPxrVdvr0_VX0nuJayG_opPJSrL9m53-ub-L35mkgGelhOL8pt",
+      "uid" : "KRuTJZ6AggZYgsJ3ZnrOOzz6VSK2"
+    },
+    "PhomcBYtvHQMZ2VfUJSt1WgsTD92" : {
+      "email" : "ishitajain966@gmail.com",
+      "firebaseToken" : "cjfD3GT42Tk:APA91bHfqas_Ug7Nx57y_s8uopGoUH9f0FuWfos1N-xfxFLBp_0E4nSCrGO95FTdc2cOjSOxu7TUYQUzOkQo01n0miY7MISKBU25YdIpItn2WJn0vcZ-5BSk3XGytcUiUeXmzkhse2Nb",
+      "uid" : "PhomcBYtvHQMZ2VfUJSt1WgsTD92"
+    },
+    "jR55GBlJbtVEbQM5O4apxfsvksV2" : {
+      "email" : "soniabhatia1102@gmail.com",
+      "firebaseToken" : "et-nsRO7ebo:APA91bGnbZaQfp9HAxZ7CQ-cuq_9mS26xcibQBlbRZT_JqQSriS02crT5pAIur6eFWH_QfATHDDlE0yw0U2OkZtf_ksPxrVdvr0_VX0nuJayG_opPJSrL9m53-ub-L35mkgGelhOL8pt",
+      "uid" : "jR55GBlJbtVEbQM5O4apxfsvksV2"
+    }
+  }
+}
